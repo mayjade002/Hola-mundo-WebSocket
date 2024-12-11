@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AEgBftjtRXcLjdzMG7iVqTHlSji9OKh8xmmOrrCZBv8=",
+  "Source": "websocket-hola-mundo",
+  "BasePath": "_content/websocket-hola-mundo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
